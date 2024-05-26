@@ -1,0 +1,1 @@
+export const Region = "asia-south1";
